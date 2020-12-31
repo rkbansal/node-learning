@@ -1,0 +1,10 @@
+{
+    "tables": {
+        "users": [
+            {"id":1, "name": "raj", "age": 26},
+            {"id":2,"name": "rajkumar", "age": 26},
+            {"id":3,"name": "deepu", "age": 26},
+            {"id":4,"name": "deepanwita", "age": 26}
+        ]
+    }
+}
